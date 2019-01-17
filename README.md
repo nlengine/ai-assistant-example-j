@@ -1,2 +1,2 @@
-# ai-assistant-example
-A code sample — a simple AI Assistant
+# ai-assistant-example-j
+A Java code sample — a simple AI Assistant
